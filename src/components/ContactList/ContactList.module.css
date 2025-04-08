@@ -1,5 +1,6 @@
+/* ContactList.module.css */
 .list {
   list-style: none;
   padding: 0;
-  margin-top: 15px;
+  margin: 0;
 }
